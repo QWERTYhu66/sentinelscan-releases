@@ -3,7 +3,7 @@
 Download page and Windows auto-update feed for **SentinelScan**, an
 authorized-scope vulnerability scanner for macOS and Windows.
 
-This repository contains **only compiled release artifacts** — no source code.
+This repository contains only compiled release artifacts, so no source code.
 Grab the latest build from the [**Releases**](../../releases) tab.
 
 ## Downloads
@@ -16,7 +16,7 @@ Grab the latest build from the [**Releases**](../../releases) tab.
 
 ## First launch
 
-The apps are **unsigned**, so your OS will warn once:
+The apps are unsigned, so your OS will warn once:
 
 - **Windows:** SmartScreen → "More info" → "Run anyway".
 - **macOS:** right-click the app → "Open" → "Open".
